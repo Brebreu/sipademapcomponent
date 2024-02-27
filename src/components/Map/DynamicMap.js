@@ -50,7 +50,6 @@ const Map = ({ children, className, width, height, ...rest }) => {
         </BaseLayer>
         <LayersControl.Overlay checked name="TIFF Layer">
           <ImageOverlay
-          // url="https://i.imgur.com/GT7VF8x.png" 
            url="https://i.imgur.com/GGPbf2Y.png" 
 
             bounds={bounds} 
